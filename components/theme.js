@@ -1,7 +1,7 @@
 ﻿// theme.js
 
 // 1. import `extendTheme` function
-import { extendTheme } from "@chakra-ui/react"
+import { extendTheme,createB } from "@chakra-ui/react"
 
 // 2. Add your color mode config
 const config = {
